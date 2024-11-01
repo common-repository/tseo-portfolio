@@ -1,0 +1,310 @@
+# Copyright (C) 2023 TSEO PRO
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TSEO Portfolio 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tseoportfolio\n"
+"POT-Creation-Date: 2023-11-26T20:15:53+00:00\n"
+"PO-Revision-Date: 2023-11-26 21:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Domain: tseoportfolio\n"
+
+#. Plugin Name of the plugin
+#: inc/tseoportfolio-class.php:36
+msgid "TSEO Portfolio"
+msgstr "TSEO Portfolio"
+
+#. Plugin URI of the plugin
+msgid "https://tseo.pro/portfolio/"
+msgstr "https://tseo.pro/portfolio/"
+
+#. Description of the plugin
+msgid ""
+"TSEO Portfolio allows you to display a gallery of websites that you have "
+"developed with WordpPress. Each entry displays an image, title, description "
+"and six buttons that link to the website, PageSpeed Mobile, PageSpeed "
+"Desktop, Pingdom, GTmetrix and Google Rich Results that allows each visitor "
+"to analyze the quality of each website."
+msgstr ""
+"TSEO Portfolio le permite mostrar una galería de sitios web que ha "
+"desarrollado usted con WordpPress. Cada entrada muestra una imagen, título, "
+"descripción y seis botones que enlazan con el sitio web, PageSpeed Mobile, "
+"PageSpeed Desktop, Pingdom, GTmetrix y Google Rich Results que permite a "
+"cada visitante analizar la calidad de cada sitio web."
+
+#. Author of the plugin
+msgid "TSEO PRO team"
+msgstr "Equipo TSEO PRO"
+
+#. Author URI of the plugin
+msgid "https://tseo.pro/"
+msgstr "https://tseo.pro/"
+
+#: admin/tseoportfolio-settings.php:14 admin/tseoportfolio-settings.php:39
+msgid "TSEO Portfolio Settings"
+msgstr "Configuración del portafolio de TSEO"
+
+#: admin/tseoportfolio-settings.php:15
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/tseoportfolio-settings.php:35
+msgid "Saving TSEO Portfolio settings"
+msgstr "Guardar la configuración de la cartera de TSEO"
+
+#: admin/tseoportfolio-settings.php:51
+msgid "Customize Gallery"
+msgstr "Personalizar galería"
+
+#: admin/tseoportfolio-settings.php:55
+msgid "Title"
+msgstr "Título"
+
+#: admin/tseoportfolio-settings.php:57
+msgid "Portfolio of Websites Optimized for SEO and SEM"
+msgstr "Portafolio de sitios web optimizados para SEO y SEM"
+
+#: admin/tseoportfolio-settings.php:61
+msgid "Gallery Title Color"
+msgstr "Color del título de la galería"
+
+#: admin/tseoportfolio-settings.php:67
+msgid "Gallery Background Color"
+msgstr "Color de fondo de la galería"
+
+#: admin/tseoportfolio-settings.php:75
+msgid "Customize Cards"
+msgstr "Personalizar tarjetas"
+
+#: admin/tseoportfolio-settings.php:79
+msgid "Card Background Color"
+msgstr "Color de fondo de la tarjeta"
+
+#: admin/tseoportfolio-settings.php:86
+msgid "Card Border Color"
+msgstr "Color del borde de la tarjeta"
+
+#: admin/tseoportfolio-settings.php:94
+msgid "Card Title Color"
+msgstr "Color del título de la tarjeta"
+
+#: admin/tseoportfolio-settings.php:100
+msgid "Card Description Color"
+msgstr "Color de descripción de la tarjeta"
+
+#: admin/tseoportfolio-settings.php:106
+msgid "Card Footer Background Color"
+msgstr "Color de fondo del pie de página de la tarjeta"
+
+#: admin/tseoportfolio-settings.php:113
+msgid "Customize Buttons"
+msgstr "Personalizar botones"
+
+#: admin/tseoportfolio-settings.php:117
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: admin/tseoportfolio-settings.php:123
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: admin/tseoportfolio-settings.php:129
+msgid "Button Hover Background Color"
+msgstr "Color de fondo del botón al pasar por encima"
+
+#: admin/tseoportfolio-settings.php:135
+msgid "Button Hover Text Color"
+msgstr "Color de texto del botón al pasar por encima"
+
+#: admin/tseoportfolio-settings.php:141
+msgid "Button Visited Text Color"
+msgstr "Botón Texto visitado Color"
+
+#: admin/tseoportfolio-settings.php:148
+msgid "Delete data"
+msgstr "Borrar datos"
+
+#: admin/tseoportfolio-settings.php:152
+msgid "Delete data when uninstalling"
+msgstr "Eliminar datos al desinstalar"
+
+#: admin/tseoportfolio-settings.php:155
+msgid "Delete all data when uninstalling the plugin"
+msgstr "Eliminar todos los datos al desinstalar el plugin"
+
+#: admin/tseoportfolio-settings.php:163
+msgid "How to display the gallery"
+msgstr "Cómo mostrar la galería"
+
+#: admin/tseoportfolio-settings.php:165 inc/tseoportfolio-class.php:335
+msgid ""
+"To display the website gallery on any page or post, simply insert the "
+"following shortcode:"
+msgstr ""
+"Para mostrar la galería del sitio web en cualquier página o publicación, "
+"simplemente inserte el siguiente shortcode:"
+
+#: admin/tseoportfolio-settings.php:168 inc/tseoportfolio-class.php:340
+msgid "If you want, you can insert the number of posts to display like this:"
+msgstr ""
+"Si lo desea, puede insertar el número de publicaciones para mostrar así:"
+
+#: admin/tseoportfolio-settings.php:171
+msgid "Information"
+msgstr "Información"
+
+#: admin/tseoportfolio-settings.php:173
+msgid ""
+"TSEO Portfolio is recommended for digital marketing agencies that want to "
+"showcase a portfolio of websites in WordPress with high performance for SEO "
+"and SEM campaigns."
+msgstr ""
+"TSEO Portfolio se recomienda para agencias de marketing digital que desean "
+"mostrar una cartera de sitios web en WordPress con alto rendimiento para "
+"campañas SEO y SEM."
+
+#: admin/tseoportfolio-settings.php:177
+msgid "Boost your business with our TSEO PRO theme"
+msgstr "Impulsa tu negocio con nuestro tema TSEO PRO"
+
+#: admin/tseoportfolio-settings.php:179
+msgid ""
+"A Hassle-Free, Comprehensive Solution: If you're aiming to establish a "
+"powerful and seamless online presence, you've come to the right place. With "
+"our TSEO PRO theme and its 'Web Renting' subscription model, we offer an "
+"ideal solution for businesses and entrepreneurs. Get a high-performance "
+"website, SEO-optimized, without making significant upfront investments."
+msgstr ""
+"Una solución integral y sin complicaciones: si su objetivo es establecer una "
+"presencia en línea poderosa y sin problemas, ha venido al lugar correcto. "
+"Con nuestro tema TSEO PRO y su modelo de suscripción 'Web Renting', "
+"ofrecemos una solución ideal para empresas y emprendedores. Obtenga un sitio "
+"web de alto rendimiento, optimizado para SEO, sin realizar importantes "
+"inversiones iniciales."
+
+#: admin/tseoportfolio-settings.php:181
+msgid "Visit TSEO PRO"
+msgstr "Visita TSEO PRO"
+
+#: inc/tseoportfolio-class.php:56
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/tseoportfolio-class.php:90
+msgid "Web links for analytics"
+msgstr "Enlaces web para análisis"
+
+#: inc/tseoportfolio-class.php:109
+msgid "Web Link"
+msgstr "Enlace web"
+
+#: inc/tseoportfolio-class.php:111
+msgid "Insert the website URL."
+msgstr "Inserte la URL del sitio web."
+
+#: inc/tseoportfolio-class.php:113
+msgid "PageSpeed Mobile Link"
+msgstr "Enlace móvil PageSpeed"
+
+#: inc/tseoportfolio-class.php:115
+msgid "Get the URL from here after analyzing (mobile): "
+msgstr "Obtenga la URL desde aquí después de analizar (móvil): "
+
+#: inc/tseoportfolio-class.php:117
+msgid "PageSpeed Desktop Link"
+msgstr "Enlace de escritorio de PageSpeed"
+
+#: inc/tseoportfolio-class.php:119
+msgid "Get the URL from here after analyzing (desktop): "
+msgstr "Obtenga la URL desde aquí después de analizar (escritorio): "
+
+#: inc/tseoportfolio-class.php:121
+msgid "Pingdom"
+msgstr "Pingdom"
+
+#: inc/tseoportfolio-class.php:123 inc/tseoportfolio-class.php:127
+#: inc/tseoportfolio-class.php:131
+msgid "Get the URL from here after analyzing: "
+msgstr "Obtenga la URL desde aquí después de analizar: "
+
+#: inc/tseoportfolio-class.php:125
+msgid "GTmetrix"
+msgstr "GTmetrix"
+
+#: inc/tseoportfolio-class.php:129
+msgid "Google Rich Results"
+msgstr "Resultados enriquecidos de Google"
+
+#: inc/tseoportfolio-class.php:240
+msgid "See website"
+msgstr "Ver web"
+
+#: inc/tseoportfolio-class.php:240
+msgid "Web"
+msgstr "Web"
+
+#: inc/tseoportfolio-class.php:241
+msgid "Analyze in mobile PageSpeed"
+msgstr "Analizar en PageSpeed móvil"
+
+#: inc/tseoportfolio-class.php:241
+msgid "Mobile"
+msgstr "Móvil"
+
+#: inc/tseoportfolio-class.php:242
+msgid "Analyze on computer PageSpeed"
+msgstr "Analizar en el ordenador PageSpeed"
+
+#: inc/tseoportfolio-class.php:242
+msgid "PC"
+msgstr "PC"
+
+#: inc/tseoportfolio-class.php:243
+msgid "Analyze in Pingdom"
+msgstr "Analizar en Pingdom"
+
+#: inc/tseoportfolio-class.php:243
+msgid "Ping"
+msgstr "Ping"
+
+#: inc/tseoportfolio-class.php:244
+msgid "Analyze in GTmetrix"
+msgstr "Analizar en GTmetrix"
+
+#: inc/tseoportfolio-class.php:244
+msgid "GT"
+msgstr "GT"
+
+#: inc/tseoportfolio-class.php:245
+msgid "Google Test Rich Results"
+msgstr "Resultados enriquecidos de Google"
+
+#: inc/tseoportfolio-class.php:245
+msgid "TestRR"
+msgstr "TestRR"
+
+#: inc/tseoportfolio-class.php:252
+msgid "No websites found."
+msgstr "No se han encontrado sitios web."
+
+#: inc/tseoportfolio-class.php:326
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/tseoportfolio-class.php:354
+msgid "Order of appearance"
+msgstr "Orden de aparición"
+
+#: inc/tseoportfolio-class.php:398
+msgid "Display in Gallery"
+msgstr "Mostrar en la galería"
+
+#: inc/tseoportfolio-class.php:412
+msgid "Do not display in gallery"
+msgstr "No mostrar en la galería"
